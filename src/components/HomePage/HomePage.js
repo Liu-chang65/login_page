@@ -6,7 +6,11 @@ class HomePage extends Component {
     return (
       <div className="HomePage">
         <NavBar />
+
         <h2>Home Page!!!</h2>
+
+        <h2>Home Page</h2>
+        <p>This is test message</p>
       </div>
     );
   }
