@@ -42,7 +42,7 @@ class LoginForm extends Component {
             </FormGroup>
             <FormGroup style={buttonStyle} controlId="formSubmit">
               <Button bsStyle="primary" type="submit" onClick={this.handleFormSubmit}>
-                Login
+                Login111
               </Button>
             </FormGroup>
           </Form>
