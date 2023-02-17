@@ -8,8 +8,6 @@ class HomePage extends Component {
         <NavBar />
 
         <h2>Home Page!!!</h2>
-
-        <h2>Home Page</h2>
         <p>This is test message</p>
       </div>
     );
